@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/browserpdftest/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/browserpdftest/static/js/main.e4eb2a8c.chunk.js",
-    "main.js.map": "/browserpdftest/static/js/main.e4eb2a8c.chunk.js.map",
-    "runtime-main.js": "/browserpdftest/static/js/runtime-main.e9f79053.js",
-    "runtime-main.js.map": "/browserpdftest/static/js/runtime-main.e9f79053.js.map",
-    "static/js/2.f4e91f3d.chunk.js": "/browserpdftest/static/js/2.f4e91f3d.chunk.js",
-    "static/js/2.f4e91f3d.chunk.js.map": "/browserpdftest/static/js/2.f4e91f3d.chunk.js.map",
-    "static/js/3.e4b3c7ab.chunk.js": "/browserpdftest/static/js/3.e4b3c7ab.chunk.js",
-    "static/js/3.e4b3c7ab.chunk.js.map": "/browserpdftest/static/js/3.e4b3c7ab.chunk.js.map",
-    "index.html": "/browserpdftest/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/browserpdftest/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f4e91f3d.chunk.js.LICENSE.txt": "/browserpdftest/static/js/2.f4e91f3d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/browserpdftest/static/media/logo.6ce24c58.svg"
+    "main.css": "/browserpdftest2/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/browserpdftest2/static/js/main.e4eb2a8c.chunk.js",
+    "main.js.map": "/browserpdftest2/static/js/main.e4eb2a8c.chunk.js.map",
+    "runtime-main.js": "/browserpdftest2/static/js/runtime-main.a8f35777.js",
+    "runtime-main.js.map": "/browserpdftest2/static/js/runtime-main.a8f35777.js.map",
+    "static/js/2.f4e91f3d.chunk.js": "/browserpdftest2/static/js/2.f4e91f3d.chunk.js",
+    "static/js/2.f4e91f3d.chunk.js.map": "/browserpdftest2/static/js/2.f4e91f3d.chunk.js.map",
+    "static/js/3.e4b3c7ab.chunk.js": "/browserpdftest2/static/js/3.e4b3c7ab.chunk.js",
+    "static/js/3.e4b3c7ab.chunk.js.map": "/browserpdftest2/static/js/3.e4b3c7ab.chunk.js.map",
+    "index.html": "/browserpdftest2/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/browserpdftest2/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f4e91f3d.chunk.js.LICENSE.txt": "/browserpdftest2/static/js/2.f4e91f3d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/browserpdftest2/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9f79053.js",
+    "static/js/runtime-main.a8f35777.js",
     "static/js/2.f4e91f3d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.e4eb2a8c.chunk.js"
